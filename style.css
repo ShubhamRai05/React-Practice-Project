@@ -25,7 +25,8 @@ input[type='text'] {
   background-color: #f5f5f5;
   position: absolute;
   left: 38rem;
-  z-index: -1;
+  outline: none;
+  /* z-index: -1; */
 }
 .search-icon {
   z-index: 999;
